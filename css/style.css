@@ -1,0 +1,16 @@
+body{
+    background-color: hsl(150, 87%, 76%);
+}
+.imga{
+    width: 100px;
+}
+.title-container{
+    background-color:yellow ;
+    
+    padding: 10px;
+    border-radius: 20px}
+
+    .form-control{
+    color:hsl(150, 87%, 76%) ;
+
+}
